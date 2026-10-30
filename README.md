@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  <a href="https://www.youtube.com/@ThinkHubbydaksh">
-    ThinkHub
+  <a href="https://www.youtube.com/playlist?list=PLWHJyoFqH7v8">
+    ThinkHub Decoded
   </a>
 </h1>
 
