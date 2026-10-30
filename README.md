@@ -26,11 +26,11 @@
 
 ---
 
-## 📺 About ThinkHub Weekly
+## 📺 About ThinkHub Decoded
 
-**ThinkHub Weekly** is the weekly educational video series from **ThinkHub**, created to explore interesting ideas, practical skills, career paths, technology, artificial intelligence, programming, data science, and other topics that can help students and learners grow.
+**ThinkHub Decoded** is the weekly educational video series from **ThinkHub**, created to explore interesting ideas, practical skills, career paths, technology, artificial intelligence, programming, data science, and other topics that can help students and learners grow.
 
-Unlike the daily **Beyond The Headlines** series, ThinkHub Weekly focuses on **deeper, topic-based videos** designed to explain concepts, roadmaps, opportunities, tools, and important questions in a simple and practical way.
+Unlike the daily **Beyond The Headlines** series, ThinkHub Decoded focuses on **deeper, topic-based videos** designed to explain concepts, roadmaps, opportunities, tools, and important questions in a simple and practical way.
 
 The series officially started on **1st August 2026** and continues with approximately **one new video every week**.
 
@@ -40,7 +40,7 @@ The series officially started on **1st August 2026** and continues with approxim
 
 ## 🧠 What You'll Find Here
 
-This repository serves as the public archive for the ThinkHub Weekly journey.
+This repository serves as the public archive for the ThinkHub Decoded journey.
 
 Topics may include:
 
@@ -130,7 +130,7 @@ Topics may include:
 
 |        📌        | Details                                             |
 | :--------------: | :-------------------------------------------------- |
-|   🎥 **Series**  | ThinkHub Weekly                                     |
+|   🎥 **Series**  | ThinkHub Decoded                                     |
 |  📅 **Started**  | 1st August 2026                                     |
 | 📆 **Frequency** | Weekly                                |
 |   🎯 **Focus**   | Education • Technology • AI • Careers • Programming |
@@ -146,7 +146,7 @@ Topics may include:
 # 🗂️ Repository Structure
 
 ```text
-thinkhub-weekly/
+thinkhub-decoded/
 │
 ├── README.md
 ├── LICENSE
@@ -215,7 +215,7 @@ A daily news and analysis series covering current affairs, technology, AI, geopo
 
 **Daily. News. Perspective.**
 
-### 🎓 ThinkHub Weekly
+### 🎓 ThinkHub Decoded
 
 A weekly educational series covering deeper topics, roadmaps, tutorials, career guidance, technology, AI, programming and other useful ideas.
 
@@ -246,7 +246,7 @@ Apply what you learn. Build. Experiment. Move forward.
 
 # 🛠️ How This Repository Is Maintained
 
-This repository is updated whenever a new ThinkHub Weekly episode is published.
+This repository is updated whenever a new ThinkHub Decoded episode is published.
 
 For every new episode:
 
@@ -262,7 +262,7 @@ For every new episode:
 5. 🚀 Push the update to GitHub
 ```
 
-The goal is to maintain a **complete, organized and publicly accessible archive** of the ThinkHub Weekly journey.
+The goal is to maintain a **complete, organized and publicly accessible archive** of the ThinkHub Decoded journey.
 
 ---
 
@@ -270,7 +270,7 @@ The goal is to maintain a **complete, organized and publicly accessible archive*
 
 This repository is more than a collection of YouTube links.
 
-It is a **public record of the ThinkHub Weekly learning journey** — documenting the topics explored, the videos created, and the knowledge shared over time.
+It is a **public record of the ThinkHub Decoded learning journey** — documenting the topics explored, the videos created, and the knowledge shared over time.
 
 From the first episode to the hundredth and beyond, this archive will grow with the channel.
 
