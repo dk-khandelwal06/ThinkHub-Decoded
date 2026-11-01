@@ -106,8 +106,8 @@ Topics may include:
 
 | 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
 | :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/15.png" width="260"> | **07 Nov 2026** | **🤖 How Do Humanoid Robots Actually Work? Are They Ready to Replace Humans?** | [📑 View Slides]() | [▶️ Watch]() |
-| <img src="thumbnails/16.png" width="260"> | **14 Nov 2026** | **🛰️ How Do Satellites Work? The Technology Connecting Our World** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/15.png" width="260"> | **07 Nov 2026** | **🤖 How Do Humanoid Robots Actually Work? Are They Ready to Replace Humans?** | [📑 View Slides](https://drive.google.com/file/d/1wUMGLlTSiHjR49qNDOEIsW4ZyMSBP295/view?usp=drive_link) | [▶️ Watch]() |
+| <img src="thumbnails/16.png" width="260"> | **14 Nov 2026** | **🛰️ How Do Satellites Work? The Technology Connecting Our World** | [📑 View Slides](https://drive.google.com/file/d/1_4ggZsTcH516QSw0thKCkDEfnXeXydBV/view?usp=drive_link) | [▶️ Watch]() |
 | <img src="thumbnails/17.png" width="260"> | **21 Nov 2026** | **🔐 How Do Hackers Actually Hack Accounts? The Hidden Science of Cybersecurity 🛡️** | [📑 View Slides]() | [▶️ Watch]() |
 | <img src="thumbnails/18.png" width="260"> | **28 Nov 2026** | **🚀 Can Humans Really Live on Mars? The Science, Technology and Challenges 🔴** | [📑 View Slides]() | [▶️ Watch]() |
 
