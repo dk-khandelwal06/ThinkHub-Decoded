@@ -117,10 +117,10 @@ Topics may include:
 
 | 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
 | :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/19.png" width="260"> | **05 Dec 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
-| <img src="thumbnails/20.png" width="260"> | **12 Dec 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
-| <img src="thumbnails/21.png" width="260"> | **19 Dec 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
-| <img src="thumbnails/22.png" width="260"> | **26 Dec 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/19.png" width="260"> | **05 Dec 2026** | **🚗 How Do Self-Driving Cars Actually Work? The AI Behind Autonomous Vehicles** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/20.png" width="260"> | **12 Dec 2026** | **🌦️ How Do Weather Forecasts Actually Work? The Science Behind Predicting Rain, Storms and Cyclones** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/21.png" width="260"> | **19 Dec 2026** | **🏥 How Is Artificial Intelligence Transforming Healthcare? Can AI Help Doctors Detect Diseases?** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/22.png" width="260"> | **26 Dec 2026** | **🔐 Your Digital Footprint: How Much Does the Internet Really Know About You?** | [📑 View Slides]() | [▶️ Watch]() |
 
 ---
 
